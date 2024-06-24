@@ -1,0 +1,29 @@
+.lists-show {
+  padding: 0 10px 10px;
+}
+
+.lists-show h3 {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.lists-cont{
+  border:1px solid #ccc;
+}
+
+.lists-cont .lists-tip{
+  padding: 10px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background:#fff;
+}
+.lists-cont .lists-tip p{
+  flex:1;
+  margin-bottom:0;
+  text-align: center;
+}
+.lists-item{
+  padding: 0 10px;
+  background: #fff;
+}

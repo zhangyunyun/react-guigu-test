@@ -1,0 +1,33 @@
+.searchHeader {
+   padding:10px;
+   color: inherit;
+   margin:0;
+
+}
+
+.search-runing{
+   position: relative;
+   border:1px solid #ddd;
+   height:40px;
+   line-height:40px;
+   padding:0 70px 0 10px;
+   background:#fff;
+}
+
+.search-runing input{
+   float:left;
+   height:100%;
+   width:100%;
+   border:0 none;
+}
+.search-runing button{
+   position:absolute;
+   right:0;
+   top:calc(50% - 19px);
+   height:38px;
+   text-align: center;
+   color:#fff;
+   background:rgba(0,219,255,1);
+   border:0 none;
+   width:70px;
+}

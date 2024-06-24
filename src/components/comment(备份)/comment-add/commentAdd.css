@@ -1,0 +1,42 @@
+.adds-show {
+   padding: 0 10px;
+ }
+ .adds-show dt {
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.adds-show dd input {
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  margin-top: 10px;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+
+.adds-show dd textarea {
+  border: 1px solid #ccc;
+  width: 100%;
+  height: 80px;
+  margin-top: 10px;
+  padding: 5px;
+  color: #666;
+  box-sizing: border-box;
+}
+
+ .adds-btn {
+   padding:0 10px 10px;
+   text-align: right;
+ }
+ 
+ .adds-btn button {
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+  background: rgba(0,219,255,1);
+  color: #fff;
+  border: 0 none;
+}

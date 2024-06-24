@@ -1,0 +1,16 @@
+.state_title{
+   margin:0;
+   background:rgba(238,236,235,1);
+   font-size:14px;
+   padding:10px 10px;
+   color:#333;
+}
+.state_cont{
+   padding:10px;
+}
+.click_operate{
+   margin-top:10px;
+}
+.click_operate button{
+   padding:0 5px;
+}

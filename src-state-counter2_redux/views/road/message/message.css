@@ -1,0 +1,25 @@
+.message{
+   height:100%;
+}
+
+.messageList a{
+   display: block;
+}
+
+.messageList button{
+   font-size:12px;
+}
+
+.messageContent{
+   margin-top:10px;
+   padding-top:10px;
+   border-top:1px solid #ddd;
+}
+
+.messageBtn{
+   margin-top:10px;
+}
+
+.messageBtn button{
+   font-size:12px; 
+}
